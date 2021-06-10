@@ -7,7 +7,7 @@ O objetivo deste exercício é replicar [essa página](https://desafio-2-front-c
 ## Funcionalidades obrigatórias
 - **Header**
   - **Input de busca**
-    - Ao clicar na lupa ou aperta a tecla `Enter` deverá filtrar os filmes por **nome**
+    - Ao clicar na lupa ou apertar a tecla `Enter` deverá filtrar os filmes por **nome**
 - **Seção de Top Filmes**
   - A seção de Top Filmes deve exibir os 5 primeiros filmes da lista encontrada no arquivo 'data.js'
 - **Seção de Filmes**
