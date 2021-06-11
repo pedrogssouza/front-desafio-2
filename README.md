@@ -9,9 +9,9 @@ O objetivo deste exercício é replicar [essa página](https://desafio-2-front-c
   - **Input de busca**
     - Ao clicar na lupa ou apertar a tecla `Enter` deverá filtrar os filmes por **nome**
 - **Seção de Top Filmes**
-  - A seção de Top Filmes deve exibir os 5 primeiros filmes que retornarem [desta API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) (antes de integrar com a API por fetch, utilize o arquivo `data.s`)
+  - A seção de Top Filmes deve exibir os 5 primeiros filmes que retornarem [desta API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) (antes de integrar com a API por fetch, utilize o arquivo `data.js`)
 - **Seção de Filmes**
-  - A seção de Filmes deve exibir todos os filmes da lista que retornarem [desta API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) (antes de integrar com a API por fetch, utilize o arquivo `data.s`)
+  - A seção de Filmes deve exibir todos os filmes da lista que retornarem [desta API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) (antes de integrar com a API por fetch, utilize o arquivo `data.js`)
 - **Sacola**
   - Adição/remoção de filmes
   - Deverá exibir o total da soma de todos os filmes adicionados
