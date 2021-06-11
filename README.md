@@ -2,7 +2,7 @@
 
 # Desafio | Front-end - Módulo 2
 
-O objetivo deste exercício é replicar [essa página](https://desafio-2-front-cubos-academy.netlify.app), encontrada no arquivo 'Desafio front academy 2.fig'.
+O objetivo deste exercício é replicar [essa página](https://desafio-2-front-cubos-academy.netlify.app), encontrada no arquivo 'Desafio 2 - Front.fig'.
 
 ## Funcionalidades obrigatórias
 - **Header**
