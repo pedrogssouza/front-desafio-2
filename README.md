@@ -26,6 +26,8 @@ O objetivo deste exercício é replicar [essa página](https://desafio-2-front-c
   - Controlar o estado das requisições (erros e carregamento)
 
 ## Retorno da API
+A API precisa de uma requisição GET padrão, sem headers e body.
+
 Os únicos campos necessários da [API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) são os seguintes:
 ```json
   {
