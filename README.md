@@ -22,6 +22,8 @@ O objetivo deste exercício é replicar [essa página](https://desafio-2-front-c
 - **Conceitos**
   - Não usar estado quando uma variável bastaria
   - Componentização e organização de código
+- **Funcionalidades**
+  - Controlar o estado das requisições (erros e carregamento)
 
 ## Retorno da API
 Os únicos campos necessários da [API](https://tmdb-proxy-workers.vhfmag.workers.dev/3/discover/movie?language=pt-BR) são os seguintes:
