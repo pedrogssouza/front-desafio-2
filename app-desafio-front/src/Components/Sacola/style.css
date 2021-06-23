@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+
+.cabecalho-sacola{
+    background-color: #A785ED;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecalho-sacola img{
+    position: relative;
+}
+
+.sacola-vazia{
+    background-color: #171B1E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sacola{
+    position: sticky;
+    right: 0;
+    top:140px;
+    width: 288px;
+    height: min-content;
+}
+.sacola:last-child{
+    padding: 15px;
+}
+.card-sacola{
+    /* width: 280px; */
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.card-sacola>img{
+    width: 45px;
+    height: 70px;
+}
+
+.card-sacola-infos{
+    margin-left: 12px;
+    width: 200px;
+}
+
+.card-sacola-infos h3{
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.card-sacola-infos>p{
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.card-sacola button{
+    height: 24px;
+    width: 24px;
+    padding: 0;
+}
+
+.card-sacola>p{
+    margin: 10px;
+}
+
+.confirmar-compra{
+    width: 100%;
+}
+
+.filmes-sacola{
+    width: 100%;
+    max-height: 400px ;
+    overflow-y: auto;
+    background-color: #171B1E;
+    padding:16px;
+}

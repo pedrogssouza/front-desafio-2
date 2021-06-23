@@ -11,8 +11,15 @@
   color:#FDFDFD
 }
 
+.main-content{
+  display:flex;
+  flex-wrap: nowrap;
+  width: fit-content;
+}
+
 .conteudo{
   margin-left: 90px;
+  width: fit-content;
 }
 
 .top-filmes, .filmes{
